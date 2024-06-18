@@ -1,4 +1,5 @@
 # Currency Converter
+![Screenshot (4)](https://github.com/mohsin7046/Currency-Convertor/assets/150660077/d7906eb0-2356-40fe-b7bf-9ec04bbd2c5f)
 
 A simple and efficient Currency Converter application built with Vite, React, and Tailwind CSS. This project also demonstrates the usage of props and integrates an API for currency conversion.
 
